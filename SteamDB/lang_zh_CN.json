@@ -569,11 +569,11 @@
     "[data-translate]":{
       "Checking your browser before accessing": "正在检查您的浏览器，之后将访问",
       "This process is automatic. Your browser will redirect to your requested content shortly.": "这个过程是自动的。你的浏览器将会在不久后跳转至所请求的内容。",
-      "Please allow up to 5 seconds...": "这个过程至多持续5秒...",
-      "Redirecting...": "跳转中...",
+      "Please allow up to 5 seconds…": "请等待至多5秒...",
+      "Redirecting…": "跳转中...",
       "Please enable Cookies and reload the page.": "请启用Cookies并刷新页面。"
     }
-    "body>div>p":{
+    ".container>p":{
       "If you are having issues, make sure that you are using a fully up to date browser.": "如果您有任何疑问，请确保您正在使用最新的浏览器。"
     }
   },
