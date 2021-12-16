@@ -573,6 +573,9 @@
       "Redirecting...": "跳转中...",
       "Please enable Cookies and reload the page.": "请启用Cookies并刷新页面。"
     }
+    "body>div>p":{
+      "If you are having issues, make sure that you are using a fully up to date browser.": "如果您有任何疑问，请确保您正在使用最新的浏览器。"
+    }
   },
   "INPUT": {
     "Search…": "搜索...",
